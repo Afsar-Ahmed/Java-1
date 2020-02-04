@@ -1,0 +1,17 @@
+DemoLoop Homework
+1. Create a project called DemoLoop and place it in Week 6.
+2. Create a for loop for 0,1,2,3,4,5
+3. Outside and below the for loop, print out tje value of sub.
+	a. will not run, is declared as a local variable
+4. Create a while loop that prints out 0,1,2,3,4,5.
+5. Outside and below the while loop print out value.
+	a. this is not a local variable and not inside the loop
+6. Create a do while loop that prints out 0,1,2,3,4,5
+7. Outside and below the do while loop, print out the value of 
+   the counter.
+8. Redo the for loop, but change the initialization from 0 to 10.
+	a. What will print out?
+9. Redo the for loop, but change the initialization from 0 to 10.
+	a. What will print out?
+10. Redo the for loop, but change the initialization from 0 to 10.
+	a. What will print out?
