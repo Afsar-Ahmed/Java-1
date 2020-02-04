@@ -1,0 +1,9 @@
+DemoStringClass Homework
+1. Create a project called DemoStringClass
+2. Prompt the user in two Strings, save them as s1 and s2.
+3. If the s1 and s2 contain the same exact characters (case sensitive) 
+   then print out "Same Exact Characters".
+4. If the two Strubg contains the same letters (not case sensitive) print
+   out "Same Letters" else, print out "Different Letters"
+5. Using a for loop, print out all of the characters found in s1 on 
+   seperate lines.

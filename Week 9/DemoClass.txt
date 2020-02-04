@@ -1,0 +1,13 @@
+DemoClass
+1.Create a project called DemoClass
+2.Add a class called Employee to the project
+	a. Make sure that the demo class folder is selected
+	b. Right click the democlass folder
+3. In Employee class, create an integer called number that is set to 1.
+4. In main method (found in DemoClass)
+	a. create an Employee object called 1
+	b. print out one
+5. In main method create another Employee object called two then 
+   print out two's number
+6. In main method change The value to 2 then print out one's and two's numbers
+		

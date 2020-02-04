@@ -1,0 +1,26 @@
+DemoReturn
+1. Create a project called DemoReturn
+2. Add a class caleld TheReturn to the project
+3. In the return class, create a private integer called number set to 1.
+4. In main method:
+	a. create a theReturn object called one
+	b. print out one's number
+		i. has private access
+5. In TheReturn createa oublic method called getNumber that:
+	a. has no parameters
+	b. returns number
+6. In main method, use getNumber to get one's number
+7. In TheReturn class, create a public method called changeNumber that:
+	a. does not take any parameters
+	b. does not return anything adds number to 10
+8. In main method, use changeNumber to add 10 to number and then print
+   out number.
+9. In main method try:
+	int num = one.changeNumber()//cannot return a value so it wont work
+	System.out.print(one.changeNumber())// cannot return a value so it wont work
+	System.out.println(one.getNumber())
+10. In main method create TheReturn object called two and print out twos number
+11. In TheReturn class, create a public method called change that:
+	a. does not take any parameters
+	b. returns number++;
+12.In main method, test change with object two

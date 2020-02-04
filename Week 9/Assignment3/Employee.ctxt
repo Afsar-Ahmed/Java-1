@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\r\n\ Afsar\ Ahmed\r\n\ 991432327\r\n\ Assignment\ 3\r\n\ 2018-01-03\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main\ method\ executes\ loop\ that\ records\ how\ many\ times\ the\ user\ enters\ information\ \r\n\ regarding\ the\ Workers(and\ some\ other\ wordy\ stuff)\r\n
+comment2.params=
+comment2.target=void\ workerMon()
+comment3.params=pt
+comment3.target=java.lang.String\ name(Worker)
+comment4.params=pt
+comment4.target=int\ num(Worker)
+comment5.params=pt
+comment5.target=double\ wage(Worker)
+comment6.params=pt
+comment6.target=int\ hours(Worker)
+numComments=7
