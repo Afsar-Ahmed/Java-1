@@ -1,0 +1,63 @@
+package sontcare;
+/**
+Afsar Ahmed
+Assignment1
+2017-09-29
+
+
+
+*/
+import java.util.Scanner;
+
+public class Assignment2{
+
+	public static void main(String args[]){
+
+		Scanner sc = new Scanner(System.in);
+		
+		int num; //this variable declares the option
+		int base,height; //these variables store the dimensions of a triangle
+		int length,width; //these varaibles store the dimensions of a rectangle
+
+
+
+		System.out.print("Enter 1 for triangle or any other integer for rectangle: ");
+		num=sc.nextInt();
+		
+		if(num == 1){
+		
+		System.out.println("Enter tringle base: ");
+		base=sc.nextInt();
+		System.out.println("Enter triangle height: ");
+		height=sc.nextInt();
+
+			if(base<0)
+				System.out.println("Base cannot be negative.");
+			else if(height<0)
+				System.out.println("Height cannot be negative.");
+			
+			int areaT=.5*height*base;
+			System.out.println(areaT);
+
+		}
+
+		else{
+		System.out.println("Enter rectangle length: ");
+		length=sc.nextInt();
+		System.out.println("Enter rectangle width: ");
+		width=sc.nextInt();
+
+			if(length<0)
+				System.out.println("length cannot be negative.");
+			else if(width<0)
+				System.out.println("Width cannot be negative.");
+			
+			int areaR=length*width;
+			System.out.println(areaR);
+
+
+		{
+
+	}
+
+}

@@ -1,0 +1,10 @@
+DemoConditional Homework
+1.) Create a project called DemoConditional that is saved in Week 4 folder
+2.) Prompt the user to type in two integers, x and y.
+3.) If x is greater than y, then set int m to 100,otherwise set int num to 50. use conditional operator and printout m
+4.) If x is an even number print out "x is even:, otherwise "x is odd"
+5.) if y is divisible by 3, print out "y is divisible by 3, other wise print out "y is not divisible by3"
+6.) Declare an integer called highestValue that takes on the value of the highest value between x and y.
+	a. Thus if y is 10, x is 8, highest Value would be 10
+	b. print out the highestValue.
+7. Prompt the user for his age, if age <=12, then ticketPrice is 10 otherwise, ticketPrice is 15.

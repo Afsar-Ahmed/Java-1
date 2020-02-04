@@ -1,0 +1,16 @@
+DemoSwitch homework
+
+1. Create a project called DemoSwitch
+2. Prompt the user to type in an integer called day that represents the day 
+   of the week(0 to 6).
+3. If the user types in a 0, then use a switch statement to print out Sunday.
+4. If the user types in a 1, then ouput Monday.
+5. Do the rest of the week
+6. If teh user enters an invalid day, then print out "invalid day"
+7. Use another Switch statement to print out 
+	a. "Weekday" if the day is Mon to Fri
+	b. "Weekend" if the day is Sat or Sun
+	c. Only need two System.out.printlns
+	d. Only need one break
+8. Use if else statement to replcae the swich of 7.
+	a. Which is easier?
