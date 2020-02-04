@@ -1,0 +1,12 @@
+DemoConditional Homework
+1. Create a project called DemoConditional.
+2. Prompt the user to type in a double and save it as digit.
+3. If digit is less than 100, then print out, digit is less than10.
+4. If the digit is a postive number , then print out "number is 
+   positive", otherwise printout "number is negative".
+5. Prompt the user to type in an integer and save it as number.
+6. If number  is equal to 55 then print on seperate lines
+	a. number is 55
+	b. number is two 5s
+7. If number is even, then print out then print out "digit is even"
+   otherwise print out "digit is odd"

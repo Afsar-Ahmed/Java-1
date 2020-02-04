@@ -1,0 +1,12 @@
+DemoElseif
+1. Create a project called DemoElseif
+2. Prompt the user to type in two doubles, d1,d2
+3. If d1 is greater than d2, printout "d1 is greater thna d2"
+4. If d1 is equal to d2, print out "d1 is equal to d2"
+5. If d1 is less than d2, print out "d1 is less than d2"
+6. Do the above conditions using only if statements
+	a.) Which is more efficient
+7. Try using the F7 <Step into> debugging function, go through the code.
+	a. Test using d1>d2
+	b. Which is more efficient? Else if or only ifs
+8. To end the debugging session 

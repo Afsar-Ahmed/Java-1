@@ -1,0 +1,15 @@
+DemoScanner Homework
+1. Create a Netbeans project called DemoScanner and 
+   place it in the Week3 folder
+
+2. Create a reference to the Scanner class:
+	a.) import java.util.Scanner;
+
+3. Create a Scanner Object called sc that is capable 
+   of accepting keyboard input from the user.
+4. Prompt the user to type in an integer.
+5. Store the integer in an int called number
+6. Print out number.
+
+7. Waht will happen if the user types in a double? a char?
+	a.) It will generate an error, InputMismatchError
