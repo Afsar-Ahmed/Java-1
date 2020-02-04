@@ -1,0 +1,5 @@
+DemoTime
+1. Create a Netbeans project called DemoTime.
+2. If today is monday what day will it be in 20 days 
+3. If the month is Feburary, what month will it be in 40 months.
+4. How many minutes and seconds are there in 320 seconds.

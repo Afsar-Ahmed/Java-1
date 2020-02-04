@@ -1,0 +1,16 @@
+DemoCast homework
+
+1. Create a project called DemoCast.
+2. Declare two integers, num1 set to 10, num2 set to 20.
+3. Declare a doube called total that is set to num1 + num2. 
+   Print out total.
+4. Declare a double named number that is set to 5.6.
+5. Declare an integer called sum that is set to number.
+	a.) Use casting to make it work
+	b.) Print our sum
+6. Declare an integer called iQuotient that is set to num1/num2.
+   Print out iQuotient.
+7. Declare an double called dQuotient that is set to num1/num2.
+   Print out dQuotient.
+8. Declare an double called cQuotient that is set to (double)num1/num2.
+   Print out cQuotient.

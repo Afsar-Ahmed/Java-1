@@ -1,0 +1,17 @@
+DemoCompare homework
+1. Create a project called DemoCompare
+2. Decalre two intergers, x equal to 3, and y set to 5.
+3. Declare a Boolean called answer that tests whether x>y. 
+   Print out answer.
+4. Declare a boolean called isGreater that is set to (x*y)>(x+y).
+   Print out isGreater.
+5. Print out 4>8.
+6. Print out x==y;
+7. Declare two booleans, isTrue set to true and isFalse set to false.
+8. Declare a Boolean isAnd and set it to isFalse $$ isTrue. 
+   Print out isAnd
+9. Declare a Boolean isOr and set it to isFalse || isTrue. 
+   Print out isOr
+10. Declare a boolean isLong that is set to:
+	a.) ((3<7) && (4>7)||(4>7)
+	b.) Print out isLong

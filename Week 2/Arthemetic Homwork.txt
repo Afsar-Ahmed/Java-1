@@ -1,0 +1,10 @@
+Arthmetic operatiors
+
+1. Declare an integer called iModulus that is the remainder of 32%5. Print out iModulus.
+2. Decalre an integer called iDivide that is the quotient of 32/5. Print out iDivide.
+3. decalre a double caleld dDivide that is the quotient of 32/5. Print out dDivide.
+4. Declare a double called dDivision that is the quotient of 32.0/5. Print out dDivision.
+5. Declare an integer called iDivision that is the quotient of 32.0/5. Print out iDivision.
+	a.) not work, cannot place double into integer
+6. Declare an integer called sum that is set to 10+10/5.
+7. Decalre an integer called total that is set to (10 + 10)/5. Print out total.

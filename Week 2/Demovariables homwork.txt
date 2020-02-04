@@ -1,0 +1,13 @@
+DemoVariables
+	1. Create a netbeans project called DemoVariables that is saved in Week 2 folder.
+	2. Have the program printout "Variable Examples"
+	3. Declare an integer called "num" that holds the value 18.
+	4. Print out the value held in num.
+	5. Change num value to 3, and print out num again.
+	6. Change the value of num to 5.5 and then print it out.
+		a.) will not work, will only take integers
+	7. Declare a double thats is set to 5.5 and then print out the digit.
+	8. Declare a char called letter that is set to x, print out letter.
+	9. Decalre a boolean called isB that is set to true. Print out isB.
+	10. Decalre an integer called RATE that is set to 20 and is final. Print out RATE.
+	11. Change RATE to 10 and print out RATE.

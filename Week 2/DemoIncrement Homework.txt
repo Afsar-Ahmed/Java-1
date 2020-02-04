@@ -1,0 +1,12 @@
+Demo increment homework
+
+1. Create a project call DemoIncrement
+2. Declare an integer called x that is set to 1, 
+   and an integer called y that is set to x++. Print out x and y.
+3. Declare and integer called a that is set to 1, and an integer 
+   called b that is set to --a. Print out a and b.
+4. Declare an integer called m that is set to 1. Print out m++ 
+   and then print m.
+5. Declare an integer called t that is set to 1. Print out --t 
+   and then print t.
+6. Declare a double called d that is set to 1. Print out ++d. 
